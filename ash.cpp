@@ -12,5 +12,6 @@ int subtract(int a, int b)
 int main()
 {
     cout<<"hello moto"<<endl;
+    cout<<add(5,2)<<endl;
     return 0;
 }
